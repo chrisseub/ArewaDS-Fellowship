@@ -4,3 +4,5 @@ print ("hello world)
 nov 7 2024
 cloned repository
 testing these changes
+
+Now that is done. This is my official repositiory for all Arewa Data Science Activities.
